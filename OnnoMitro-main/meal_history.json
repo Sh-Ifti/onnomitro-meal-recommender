@@ -1,0 +1,48 @@
+{
+    "1": {
+        "2024-12-01": {
+            "meals": {},
+            "total_calories": 0.0,
+            "remaining_calories": 2000.0
+        }
+    },
+    "4": {
+        "2024-12-01": {
+            "meals": {
+                "breakfast": {
+                    "recipe_name": "Bhapa Pitha",
+                    "calories": 443.0,
+                    "time_selected": "21:56:36",
+                    "recipe_id": 2176
+                },
+                "lunch": {
+                    "recipe_name": "Pulao",
+                    "calories": 530.0,
+                    "time_selected": "21:56:39",
+                    "recipe_id": 2175
+                },
+                "dinner": {
+                    "recipe_name": "Chaul Biriyani",
+                    "calories": 380.0,
+                    "time_selected": "21:56:43",
+                    "recipe_id": 2136
+                },
+                "snack": {
+                    "recipe_name": "Aloo Kabab",
+                    "calories": 154.0,
+                    "time_selected": "21:56:45",
+                    "recipe_id": 2419
+                }
+            },
+            "total_calories": 1507.0,
+            "remaining_calories": 493.0
+        }
+    },
+    "5": {
+        "2024-12-02": {
+            "meals": {},
+            "total_calories": 0.0,
+            "remaining_calories": 2000.0
+        }
+    }
+}
