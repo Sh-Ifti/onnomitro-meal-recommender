@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.db
+instance/
+meal_history.json
+data/meal_history.json
+.env
+venv/
